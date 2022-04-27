@@ -1,0 +1,27 @@
+<meta charset="utf-8">
+
+<button>Clique aqui ara ver a média dos alunos</button>
+
+<script>
+
+	var button = document.querySelector("button")
+	button.onclick = verifica;
+
+	function mostra(text){
+		document.write(text + "<br>")
+	}
+
+	function verifica(){
+		for(var i = 0; i < 1; i++){
+			var nomeDoALuno = prompt("Qual é o nome do aluno");
+			var notaAlunoPortugues = parseFloat(prompt("Qual a nota de Portugues"))
+			var notaAlunoMatematica =  parseFloat(prompt("Qual a nota de Matematica"))
+			var notaAlunoLogica =  parseFloat(prompt("Qual a nota de Logica"))
+			var notaAlunoHardware =  parseFloat(prompt("Qual é a nota de Hardware"))
+
+			var media = Math.round((notaAlunoPortugues + notaAlunoMatematica + notaAlunoLogica + notaAlunoHardware)/4);
+			mostra("<strong>" + nomeDoALuno + ":</strong>" + " <br>Nota de Portugues: " + notaAlunoPortugues + " <br>Nota de Matematica: " + notaAlunoMatematica + " <br>Nota de Logica: " + notaAlunoLogica + " <br>Nota de Hardware: " + notaAlunoHardware + " <br>Media do aluno:" + media + "<br><--------------------------------->")
+		}
+	}
+
+</script>

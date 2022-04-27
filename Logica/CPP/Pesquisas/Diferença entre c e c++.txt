@@ -1,0 +1,9 @@
+C é a base do c++
+C++ é uma versão mais moderna do c que permite o uso de orientação a objetos e orientados a procedimentos.
+C++ não é tão eficiente quanto C, consome mais memória e processamento.
+A manutenção no c é quase impossivel para projetos grandes
+O c++ acelera o desenvolvimento pela praticidade.
+
+------O que é programação Orientada a Objeto?------
+
+As duas bases da POO são os conceitos de classe e objeto.

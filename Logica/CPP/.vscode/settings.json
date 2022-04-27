@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "primeiroprograma.C": "cpp",
+        "corecrt_memory.h": "c",
+        "iostream": "cpp",
+        "string": "cpp",
+        "ostream": "cpp",
+        "iomanip": "cpp"
+    }
+}

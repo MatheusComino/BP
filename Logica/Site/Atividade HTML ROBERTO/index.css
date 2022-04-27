@@ -1,0 +1,91 @@
+header{
+	font-size: 30px;
+	background: #000000;
+}
+
+header h1{
+	color: #ffffff;
+
+}
+
+nav{
+	position: absolute;
+	top: -20px;
+	right: 60px;
+}
+
+nav li{
+	display: inline;
+	vertical-align: top;
+	margin: 0 0 0 15px;
+	
+}
+
+
+.principal{
+	text-align: center;
+	margin-top: -20px;
+	background: #ef9d9d;
+	padding-bottom: 30%;
+	background-image: url(https://images.pexels.com/photos/1525041/pexels-photo-1525041.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+	background-repeat: no-repeat;
+}
+
+.principal h2{
+	padding-top: 20px;
+	margin-bottom: 20px;
+	color: #ffffff;
+}
+
+.principal-text{
+	padding-top: 10%;
+	font-weight: bold;
+	font-size: 30px;
+}
+
+.principal-text h2{
+	background-color: black;
+	margin: 0px 20%;
+	padding-bottom: 15px;
+}
+
+.principal-text p{
+	background-color: black;
+}
+nav a{
+	text-transform: uppercase;
+	color: black;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 22px;
+	color: #ffffff ;
+
+}
+
+nav a:hover{
+	color: #2e2444;
+	text-decoration: underline;
+}
+
+.box{
+	position: relative;
+	margin: -40px auto;
+}
+
+footer{
+	background-color: #000000;
+	text-align: center;
+	margin-bottom: -30px;
+	margin-top: -30px;
+	color: white;
+}
+
+footer h1{
+	padding-top: 15px;
+}
+
+p{
+	margin: 0px 20%;
+	padding-bottom: 10px;
+	color: #ffffff;
+}
