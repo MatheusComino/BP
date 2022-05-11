@@ -1,0 +1,15 @@
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\3-CriandoVariaveisPontosFlutuantes\bin\Debug\net6.0\3-CriandoVariaveisPontosFlutuantes.exe
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\3-CriandoVariaveisPontosFlutuantes\bin\Debug\net6.0\3-CriandoVariaveisPontosFlutuantes.deps.json
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\3-CriandoVariaveisPontosFlutuantes\bin\Debug\net6.0\3-CriandoVariaveisPontosFlutuantes.runtimeconfig.json
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\3-CriandoVariaveisPontosFlutuantes\bin\Debug\net6.0\3-CriandoVariaveisPontosFlutuantes.dll
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\3-CriandoVariaveisPontosFlutuantes\bin\Debug\net6.0\3-CriandoVariaveisPontosFlutuantes.pdb
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\3-CriandoVariaveisPontosFlutuantes\obj\Debug\net6.0\3-CriandoVariaveisPontosFlutuantes.csproj.AssemblyReference.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\3-CriandoVariaveisPontosFlutuantes\obj\Debug\net6.0\3-CriandoVariaveisPontosFlutuantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\3-CriandoVariaveisPontosFlutuantes\obj\Debug\net6.0\3-CriandoVariaveisPontosFlutuantes.AssemblyInfoInputs.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\3-CriandoVariaveisPontosFlutuantes\obj\Debug\net6.0\3-CriandoVariaveisPontosFlutuantes.AssemblyInfo.cs
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\3-CriandoVariaveisPontosFlutuantes\obj\Debug\net6.0\3-CriandoVariaveisPontosFlutuantes.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\3-CriandoVariaveisPontosFlutuantes\obj\Debug\net6.0\3-CriandoVariaveisPontosFlutuantes.dll
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\3-CriandoVariaveisPontosFlutuantes\obj\Debug\net6.0\refint\3-CriandoVariaveisPontosFlutuantes.dll
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\3-CriandoVariaveisPontosFlutuantes\obj\Debug\net6.0\3-CriandoVariaveisPontosFlutuantes.pdb
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\3-CriandoVariaveisPontosFlutuantes\obj\Debug\net6.0\3-CriandoVariaveisPontosFlutuantes.genruntimeconfig.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\3-CriandoVariaveisPontosFlutuantes\obj\Debug\net6.0\ref\3-CriandoVariaveisPontosFlutuantes.dll

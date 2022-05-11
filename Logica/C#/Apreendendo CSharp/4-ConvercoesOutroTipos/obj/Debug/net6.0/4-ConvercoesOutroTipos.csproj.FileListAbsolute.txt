@@ -1,0 +1,15 @@
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\4-ConvercoesOutroTipos\bin\Debug\net6.0\4-ConvercoesOutroTipos.exe
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\4-ConvercoesOutroTipos\bin\Debug\net6.0\4-ConvercoesOutroTipos.deps.json
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\4-ConvercoesOutroTipos\bin\Debug\net6.0\4-ConvercoesOutroTipos.runtimeconfig.json
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\4-ConvercoesOutroTipos\bin\Debug\net6.0\4-ConvercoesOutroTipos.dll
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\4-ConvercoesOutroTipos\bin\Debug\net6.0\4-ConvercoesOutroTipos.pdb
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\4-ConvercoesOutroTipos\obj\Debug\net6.0\4-ConvercoesOutroTipos.csproj.AssemblyReference.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\4-ConvercoesOutroTipos\obj\Debug\net6.0\4-ConvercoesOutroTipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\4-ConvercoesOutroTipos\obj\Debug\net6.0\4-ConvercoesOutroTipos.AssemblyInfoInputs.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\4-ConvercoesOutroTipos\obj\Debug\net6.0\4-ConvercoesOutroTipos.AssemblyInfo.cs
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\4-ConvercoesOutroTipos\obj\Debug\net6.0\4-ConvercoesOutroTipos.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\4-ConvercoesOutroTipos\obj\Debug\net6.0\4-ConvercoesOutroTipos.dll
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\4-ConvercoesOutroTipos\obj\Debug\net6.0\refint\4-ConvercoesOutroTipos.dll
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\4-ConvercoesOutroTipos\obj\Debug\net6.0\4-ConvercoesOutroTipos.pdb
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\4-ConvercoesOutroTipos\obj\Debug\net6.0\4-ConvercoesOutroTipos.genruntimeconfig.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\4-ConvercoesOutroTipos\obj\Debug\net6.0\ref\4-ConvercoesOutroTipos.dll

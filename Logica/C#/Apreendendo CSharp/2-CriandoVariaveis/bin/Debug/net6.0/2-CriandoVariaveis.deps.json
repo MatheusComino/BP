@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "2-CriandoVariaveis/1.0.0": {
+        "dependencies": {
+          "3-CriandoVariaveisPontosFlutuantes": "1.0.0"
+        },
+        "runtime": {
+          "2-CriandoVariaveis.dll": {}
+        }
+      },
+      "3-CriandoVariaveisPontosFlutuantes/1.0.0": {
+        "runtime": {
+          "3-CriandoVariaveisPontosFlutuantes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2-CriandoVariaveis/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "3-CriandoVariaveisPontosFlutuantes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
