@@ -1,0 +1,15 @@
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\Atividade 2 - For\bin\Debug\net6.0\Atividade 2 - For.exe
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\Atividade 2 - For\bin\Debug\net6.0\Atividade 2 - For.deps.json
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\Atividade 2 - For\bin\Debug\net6.0\Atividade 2 - For.runtimeconfig.json
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\Atividade 2 - For\bin\Debug\net6.0\Atividade 2 - For.dll
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\Atividade 2 - For\bin\Debug\net6.0\Atividade 2 - For.pdb
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\Atividade 2 - For\obj\Debug\net6.0\Atividade 2 - For.csproj.AssemblyReference.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\Atividade 2 - For\obj\Debug\net6.0\Atividade 2 - For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\Atividade 2 - For\obj\Debug\net6.0\Atividade 2 - For.AssemblyInfoInputs.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\Atividade 2 - For\obj\Debug\net6.0\Atividade 2 - For.AssemblyInfo.cs
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\Atividade 2 - For\obj\Debug\net6.0\Atividade 2 - For.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\Atividade 2 - For\obj\Debug\net6.0\Atividade 2 - For.dll
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\Atividade 2 - For\obj\Debug\net6.0\refint\Atividade 2 - For.dll
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\Atividade 2 - For\obj\Debug\net6.0\Atividade 2 - For.pdb
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\Atividade 2 - For\obj\Debug\net6.0\Atividade 2 - For.genruntimeconfig.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\Atividade 2 - For\obj\Debug\net6.0\ref\Atividade 2 - For.dll

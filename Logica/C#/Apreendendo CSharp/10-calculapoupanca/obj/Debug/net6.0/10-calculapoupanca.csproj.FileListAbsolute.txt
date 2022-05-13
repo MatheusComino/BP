@@ -1,0 +1,15 @@
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\10-calculapoupanca\bin\Debug\net6.0\10-calculapoupanca.exe
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\10-calculapoupanca\bin\Debug\net6.0\10-calculapoupanca.deps.json
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\10-calculapoupanca\bin\Debug\net6.0\10-calculapoupanca.runtimeconfig.json
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\10-calculapoupanca\bin\Debug\net6.0\10-calculapoupanca.dll
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\10-calculapoupanca\bin\Debug\net6.0\10-calculapoupanca.pdb
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\10-calculapoupanca\obj\Debug\net6.0\10-calculapoupanca.csproj.AssemblyReference.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\10-calculapoupanca\obj\Debug\net6.0\10-calculapoupanca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\10-calculapoupanca\obj\Debug\net6.0\10-calculapoupanca.AssemblyInfoInputs.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\10-calculapoupanca\obj\Debug\net6.0\10-calculapoupanca.AssemblyInfo.cs
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\10-calculapoupanca\obj\Debug\net6.0\10-calculapoupanca.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\10-calculapoupanca\obj\Debug\net6.0\10-calculapoupanca.dll
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\10-calculapoupanca\obj\Debug\net6.0\refint\10-calculapoupanca.dll
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\10-calculapoupanca\obj\Debug\net6.0\10-calculapoupanca.pdb
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\10-calculapoupanca\obj\Debug\net6.0\10-calculapoupanca.genruntimeconfig.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\10-calculapoupanca\obj\Debug\net6.0\ref\10-calculapoupanca.dll

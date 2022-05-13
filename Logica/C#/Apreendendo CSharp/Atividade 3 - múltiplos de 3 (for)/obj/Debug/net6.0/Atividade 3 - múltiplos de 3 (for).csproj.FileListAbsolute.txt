@@ -1,0 +1,15 @@
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\Atividade 3 - múltiplos de 3 (for)\bin\Debug\net6.0\Atividade 3 - múltiplos de 3 (for).exe
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\Atividade 3 - múltiplos de 3 (for)\bin\Debug\net6.0\Atividade 3 - múltiplos de 3 (for).deps.json
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\Atividade 3 - múltiplos de 3 (for)\bin\Debug\net6.0\Atividade 3 - múltiplos de 3 (for).runtimeconfig.json
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\Atividade 3 - múltiplos de 3 (for)\bin\Debug\net6.0\Atividade 3 - múltiplos de 3 (for).dll
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\Atividade 3 - múltiplos de 3 (for)\bin\Debug\net6.0\Atividade 3 - múltiplos de 3 (for).pdb
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\Atividade 3 - múltiplos de 3 (for)\obj\Debug\net6.0\Atividade 3 - múltiplos de 3 (for).csproj.AssemblyReference.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\Atividade 3 - múltiplos de 3 (for)\obj\Debug\net6.0\Atividade 3 - múltiplos de 3 (for).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\Atividade 3 - múltiplos de 3 (for)\obj\Debug\net6.0\Atividade 3 - múltiplos de 3 (for).AssemblyInfoInputs.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\Atividade 3 - múltiplos de 3 (for)\obj\Debug\net6.0\Atividade 3 - múltiplos de 3 (for).AssemblyInfo.cs
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\Atividade 3 - múltiplos de 3 (for)\obj\Debug\net6.0\Atividade 3 - múltiplos de 3 (for).csproj.CoreCompileInputs.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\Atividade 3 - múltiplos de 3 (for)\obj\Debug\net6.0\Atividade 3 - múltiplos de 3 (for).dll
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\Atividade 3 - múltiplos de 3 (for)\obj\Debug\net6.0\refint\Atividade 3 - múltiplos de 3 (for).dll
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\Atividade 3 - múltiplos de 3 (for)\obj\Debug\net6.0\Atividade 3 - múltiplos de 3 (for).pdb
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\Atividade 3 - múltiplos de 3 (for)\obj\Debug\net6.0\Atividade 3 - múltiplos de 3 (for).genruntimeconfig.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Apreendendo CSharp\Atividade 3 - múltiplos de 3 (for)\obj\Debug\net6.0\ref\Atividade 3 - múltiplos de 3 (for).dll
