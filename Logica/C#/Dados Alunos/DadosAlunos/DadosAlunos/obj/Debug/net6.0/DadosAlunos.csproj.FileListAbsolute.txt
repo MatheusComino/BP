@@ -1,0 +1,15 @@
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\DadosAlunos\bin\Debug\net6.0\DadosAlunos.exe
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\DadosAlunos\bin\Debug\net6.0\DadosAlunos.deps.json
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\DadosAlunos\bin\Debug\net6.0\DadosAlunos.runtimeconfig.json
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\DadosAlunos\bin\Debug\net6.0\DadosAlunos.dll
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\DadosAlunos\bin\Debug\net6.0\DadosAlunos.pdb
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\DadosAlunos\obj\Debug\net6.0\DadosAlunos.csproj.AssemblyReference.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\DadosAlunos\obj\Debug\net6.0\DadosAlunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\DadosAlunos\obj\Debug\net6.0\DadosAlunos.AssemblyInfoInputs.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\DadosAlunos\obj\Debug\net6.0\DadosAlunos.AssemblyInfo.cs
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\DadosAlunos\obj\Debug\net6.0\DadosAlunos.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\DadosAlunos\obj\Debug\net6.0\DadosAlunos.dll
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\DadosAlunos\obj\Debug\net6.0\refint\DadosAlunos.dll
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\DadosAlunos\obj\Debug\net6.0\DadosAlunos.pdb
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\DadosAlunos\obj\Debug\net6.0\DadosAlunos.genruntimeconfig.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\DadosAlunos\obj\Debug\net6.0\ref\DadosAlunos.dll

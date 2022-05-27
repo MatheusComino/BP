@@ -1,0 +1,15 @@
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\dados_pessoas\bin\Debug\net6.0\dados_pessoas.exe
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\dados_pessoas\bin\Debug\net6.0\dados_pessoas.deps.json
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\dados_pessoas\bin\Debug\net6.0\dados_pessoas.runtimeconfig.json
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\dados_pessoas\bin\Debug\net6.0\dados_pessoas.dll
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\dados_pessoas\bin\Debug\net6.0\dados_pessoas.pdb
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\dados_pessoas\obj\Debug\net6.0\dados_pessoas.csproj.AssemblyReference.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\dados_pessoas\obj\Debug\net6.0\dados_pessoas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\dados_pessoas\obj\Debug\net6.0\dados_pessoas.AssemblyInfoInputs.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\dados_pessoas\obj\Debug\net6.0\dados_pessoas.AssemblyInfo.cs
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\dados_pessoas\obj\Debug\net6.0\dados_pessoas.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\dados_pessoas\obj\Debug\net6.0\dados_pessoas.dll
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\dados_pessoas\obj\Debug\net6.0\refint\dados_pessoas.dll
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\dados_pessoas\obj\Debug\net6.0\dados_pessoas.pdb
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\dados_pessoas\obj\Debug\net6.0\dados_pessoas.genruntimeconfig.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\dados_pessoas\obj\Debug\net6.0\ref\dados_pessoas.dll

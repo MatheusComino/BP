@@ -1,0 +1,15 @@
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\VetorComfor\bin\Debug\net6.0\VetorComfor.exe
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\VetorComfor\bin\Debug\net6.0\VetorComfor.deps.json
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\VetorComfor\bin\Debug\net6.0\VetorComfor.runtimeconfig.json
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\VetorComfor\bin\Debug\net6.0\VetorComfor.dll
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\VetorComfor\bin\Debug\net6.0\VetorComfor.pdb
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\VetorComfor\obj\Debug\net6.0\VetorComfor.csproj.AssemblyReference.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\VetorComfor\obj\Debug\net6.0\VetorComfor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\VetorComfor\obj\Debug\net6.0\VetorComfor.AssemblyInfoInputs.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\VetorComfor\obj\Debug\net6.0\VetorComfor.AssemblyInfo.cs
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\VetorComfor\obj\Debug\net6.0\VetorComfor.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\VetorComfor\obj\Debug\net6.0\VetorComfor.dll
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\VetorComfor\obj\Debug\net6.0\refint\VetorComfor.dll
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\VetorComfor\obj\Debug\net6.0\VetorComfor.pdb
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\VetorComfor\obj\Debug\net6.0\VetorComfor.genruntimeconfig.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\VetorComfor\obj\Debug\net6.0\ref\VetorComfor.dll

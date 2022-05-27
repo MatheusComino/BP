@@ -1,0 +1,15 @@
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\alunosAprovados\obj\Debug\net6.0\alunosAprovados.csproj.AssemblyReference.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\alunosAprovados\obj\Debug\net6.0\alunosAprovados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\alunosAprovados\obj\Debug\net6.0\alunosAprovados.AssemblyInfoInputs.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\alunosAprovados\obj\Debug\net6.0\alunosAprovados.AssemblyInfo.cs
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\alunosAprovados\obj\Debug\net6.0\alunosAprovados.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\alunosAprovados\bin\Debug\net6.0\alunosAprovados.exe
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\alunosAprovados\bin\Debug\net6.0\alunosAprovados.deps.json
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\alunosAprovados\bin\Debug\net6.0\alunosAprovados.runtimeconfig.json
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\alunosAprovados\bin\Debug\net6.0\alunosAprovados.dll
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\alunosAprovados\bin\Debug\net6.0\alunosAprovados.pdb
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\alunosAprovados\obj\Debug\net6.0\alunosAprovados.dll
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\alunosAprovados\obj\Debug\net6.0\refint\alunosAprovados.dll
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\alunosAprovados\obj\Debug\net6.0\alunosAprovados.pdb
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\alunosAprovados\obj\Debug\net6.0\alunosAprovados.genruntimeconfig.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\alunosAprovados\obj\Debug\net6.0\ref\alunosAprovados.dll

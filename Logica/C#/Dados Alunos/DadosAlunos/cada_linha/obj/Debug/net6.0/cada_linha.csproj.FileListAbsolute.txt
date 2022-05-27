@@ -1,0 +1,15 @@
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\cada_linha\bin\Debug\net6.0\cada_linha.exe
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\cada_linha\bin\Debug\net6.0\cada_linha.deps.json
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\cada_linha\bin\Debug\net6.0\cada_linha.runtimeconfig.json
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\cada_linha\bin\Debug\net6.0\cada_linha.dll
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\cada_linha\bin\Debug\net6.0\cada_linha.pdb
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\cada_linha\obj\Debug\net6.0\cada_linha.csproj.AssemblyReference.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\cada_linha\obj\Debug\net6.0\cada_linha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\cada_linha\obj\Debug\net6.0\cada_linha.AssemblyInfoInputs.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\cada_linha\obj\Debug\net6.0\cada_linha.AssemblyInfo.cs
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\cada_linha\obj\Debug\net6.0\cada_linha.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\cada_linha\obj\Debug\net6.0\cada_linha.dll
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\cada_linha\obj\Debug\net6.0\refint\cada_linha.dll
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\cada_linha\obj\Debug\net6.0\cada_linha.pdb
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\cada_linha\obj\Debug\net6.0\cada_linha.genruntimeconfig.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\DadosAlunos\cada_linha\obj\Debug\net6.0\ref\cada_linha.dll
