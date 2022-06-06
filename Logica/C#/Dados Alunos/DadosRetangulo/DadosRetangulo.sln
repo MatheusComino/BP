@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DadosRetangulo", "DadosRetangulo\DadosRetangulo.csproj", "{896791D8-A440-4971-B52A-D19C670788FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DadosFuncionario", "DadosFuncionario\DadosFuncionario.csproj", "{36C8EFAB-E065-4A46-8B70-49A29190362B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{896791D8-A440-4971-B52A-D19C670788FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{896791D8-A440-4971-B52A-D19C670788FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{896791D8-A440-4971-B52A-D19C670788FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{896791D8-A440-4971-B52A-D19C670788FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36C8EFAB-E065-4A46-8B70-49A29190362B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36C8EFAB-E065-4A46-8B70-49A29190362B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36C8EFAB-E065-4A46-8B70-49A29190362B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36C8EFAB-E065-4A46-8B70-49A29190362B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {381ADDD1-F75D-46FF-8680-FC503A35F57E}
+	EndGlobalSection
+EndGlobal

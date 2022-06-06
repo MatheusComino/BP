@@ -1,0 +1,15 @@
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\AreaDoisTriangulos\AreaDoisTriangulos\bin\Debug\net6.0\AreaDoisTriangulos.exe
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\AreaDoisTriangulos\AreaDoisTriangulos\bin\Debug\net6.0\AreaDoisTriangulos.deps.json
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\AreaDoisTriangulos\AreaDoisTriangulos\bin\Debug\net6.0\AreaDoisTriangulos.runtimeconfig.json
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\AreaDoisTriangulos\AreaDoisTriangulos\bin\Debug\net6.0\AreaDoisTriangulos.dll
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\AreaDoisTriangulos\AreaDoisTriangulos\bin\Debug\net6.0\AreaDoisTriangulos.pdb
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\AreaDoisTriangulos\AreaDoisTriangulos\obj\Debug\net6.0\AreaDoisTriangulos.csproj.AssemblyReference.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\AreaDoisTriangulos\AreaDoisTriangulos\obj\Debug\net6.0\AreaDoisTriangulos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\AreaDoisTriangulos\AreaDoisTriangulos\obj\Debug\net6.0\AreaDoisTriangulos.AssemblyInfoInputs.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\AreaDoisTriangulos\AreaDoisTriangulos\obj\Debug\net6.0\AreaDoisTriangulos.AssemblyInfo.cs
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\AreaDoisTriangulos\AreaDoisTriangulos\obj\Debug\net6.0\AreaDoisTriangulos.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\AreaDoisTriangulos\AreaDoisTriangulos\obj\Debug\net6.0\AreaDoisTriangulos.dll
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\AreaDoisTriangulos\AreaDoisTriangulos\obj\Debug\net6.0\refint\AreaDoisTriangulos.dll
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\AreaDoisTriangulos\AreaDoisTriangulos\obj\Debug\net6.0\AreaDoisTriangulos.pdb
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\AreaDoisTriangulos\AreaDoisTriangulos\obj\Debug\net6.0\AreaDoisTriangulos.genruntimeconfig.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\AreaDoisTriangulos\AreaDoisTriangulos\obj\Debug\net6.0\ref\AreaDoisTriangulos.dll

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaDoisTriangulos", "AreaDoisTriangulos\AreaDoisTriangulos.csproj", "{79623100-8D02-4DF9-A525-E8283AB37EFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dados Pessoais", "Dados Pessoais\Dados Pessoais.csproj", "{2252A533-CC77-4DB5-8828-754081E7977D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79623100-8D02-4DF9-A525-E8283AB37EFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79623100-8D02-4DF9-A525-E8283AB37EFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79623100-8D02-4DF9-A525-E8283AB37EFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79623100-8D02-4DF9-A525-E8283AB37EFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2252A533-CC77-4DB5-8828-754081E7977D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2252A533-CC77-4DB5-8828-754081E7977D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2252A533-CC77-4DB5-8828-754081E7977D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2252A533-CC77-4DB5-8828-754081E7977D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4A9044F-E61A-48B1-B211-9B5046DF3985}
+	EndGlobalSection
+EndGlobal

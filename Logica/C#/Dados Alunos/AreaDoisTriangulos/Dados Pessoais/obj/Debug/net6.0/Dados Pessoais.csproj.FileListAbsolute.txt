@@ -1,0 +1,15 @@
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\AreaDoisTriangulos\Dados Pessoais\bin\Debug\net6.0\Dados Pessoais.exe
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\AreaDoisTriangulos\Dados Pessoais\bin\Debug\net6.0\Dados Pessoais.deps.json
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\AreaDoisTriangulos\Dados Pessoais\bin\Debug\net6.0\Dados Pessoais.runtimeconfig.json
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\AreaDoisTriangulos\Dados Pessoais\bin\Debug\net6.0\Dados Pessoais.dll
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\AreaDoisTriangulos\Dados Pessoais\bin\Debug\net6.0\Dados Pessoais.pdb
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\AreaDoisTriangulos\Dados Pessoais\obj\Debug\net6.0\Dados Pessoais.csproj.AssemblyReference.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\AreaDoisTriangulos\Dados Pessoais\obj\Debug\net6.0\Dados Pessoais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\AreaDoisTriangulos\Dados Pessoais\obj\Debug\net6.0\Dados Pessoais.AssemblyInfoInputs.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\AreaDoisTriangulos\Dados Pessoais\obj\Debug\net6.0\Dados Pessoais.AssemblyInfo.cs
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\AreaDoisTriangulos\Dados Pessoais\obj\Debug\net6.0\Dados Pessoais.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\AreaDoisTriangulos\Dados Pessoais\obj\Debug\net6.0\Dados Pessoais.dll
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\AreaDoisTriangulos\Dados Pessoais\obj\Debug\net6.0\refint\Dados Pessoais.dll
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\AreaDoisTriangulos\Dados Pessoais\obj\Debug\net6.0\Dados Pessoais.pdb
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\AreaDoisTriangulos\Dados Pessoais\obj\Debug\net6.0\Dados Pessoais.genruntimeconfig.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\AreaDoisTriangulos\Dados Pessoais\obj\Debug\net6.0\ref\Dados Pessoais.dll
