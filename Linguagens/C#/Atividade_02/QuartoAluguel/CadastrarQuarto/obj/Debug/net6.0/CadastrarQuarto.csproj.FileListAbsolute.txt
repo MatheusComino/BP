@@ -1,0 +1,15 @@
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\QuartoAluguel\CadastrarQuarto\bin\Debug\net6.0\CadastrarQuarto.exe
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\QuartoAluguel\CadastrarQuarto\bin\Debug\net6.0\CadastrarQuarto.deps.json
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\QuartoAluguel\CadastrarQuarto\bin\Debug\net6.0\CadastrarQuarto.runtimeconfig.json
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\QuartoAluguel\CadastrarQuarto\bin\Debug\net6.0\CadastrarQuarto.dll
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\QuartoAluguel\CadastrarQuarto\bin\Debug\net6.0\CadastrarQuarto.pdb
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\QuartoAluguel\CadastrarQuarto\obj\Debug\net6.0\CadastrarQuarto.csproj.AssemblyReference.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\QuartoAluguel\CadastrarQuarto\obj\Debug\net6.0\CadastrarQuarto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\QuartoAluguel\CadastrarQuarto\obj\Debug\net6.0\CadastrarQuarto.AssemblyInfoInputs.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\QuartoAluguel\CadastrarQuarto\obj\Debug\net6.0\CadastrarQuarto.AssemblyInfo.cs
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\QuartoAluguel\CadastrarQuarto\obj\Debug\net6.0\CadastrarQuarto.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\QuartoAluguel\CadastrarQuarto\obj\Debug\net6.0\CadastrarQuarto.dll
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\QuartoAluguel\CadastrarQuarto\obj\Debug\net6.0\refint\CadastrarQuarto.dll
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\QuartoAluguel\CadastrarQuarto\obj\Debug\net6.0\CadastrarQuarto.pdb
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\QuartoAluguel\CadastrarQuarto\obj\Debug\net6.0\CadastrarQuarto.genruntimeconfig.cache
+C:\Users\ALUNO - CT SISTEMA\Documents\GitHub\BP\Logica\C#\Dados Alunos\QuartoAluguel\CadastrarQuarto\obj\Debug\net6.0\ref\CadastrarQuarto.dll
